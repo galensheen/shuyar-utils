@@ -7,7 +7,7 @@ const should = require('chai').should();
 const expect = require('chai').expect;
 const inject = require('../../index').inject;
 
-describe('inject test cases: ', function () {
+describe('tests/inject.test.js', function () {
     var obj, properties, result;
 
     beforeEach(function () {

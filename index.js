@@ -3,5 +3,6 @@
  */
 
 module.exports = {
-    inject: require('./lib/inject')
+    inject: require('./lib/inject'),
+    loading: require('./lib/loading')
 };
